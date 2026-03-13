@@ -1,0 +1,20 @@
+# Crear tablas en SQL
+> para crear una tabla utilizamos el comando
+**CREATE TABLE**
+
+> Sintaxis:
+
+    CREATE TABLE nombreTABLA
+    (
+        nombreCampo tipoDato [modificadores],
+        nombreCampo2 tipoDato [modificadores],
+        nombreCampo3 tipoDato [modificadores],
+        nombreCampoX tipoDato [modificadores]
+    );
+
+> Ejemplo práctico:
+
+    CREATE TABLE clientes
+    (
+        idCliente INT
+    );
