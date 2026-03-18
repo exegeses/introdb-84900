@@ -16,5 +16,14 @@
 
     CREATE TABLE clientes
     (
-        idCliente INT
+        idCliente INT AUTO_INCREMENT PRIMARY KEY,  
+        nombre VARCHAR(50) NOT NULL,  
+        apellido VARCHAR(50) NOT NULL,  
+        telefono VARCHAR(25) NOT NULL,  
+        email VARCHAR(50),  
+        fechaAlta DATE NOT NULL
     );
+
+## Eliminar una tabla
+
+    DROP TABLE nombreTabla;  
