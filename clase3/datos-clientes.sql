@@ -1,0 +1,28 @@
+INSERT INTO clientes
+    (nombre, apellido, telefono, email, fechaAlta)
+VALUES
+('Lucía', 'González', '1234567890', 'lucia.gonzalez@mail.com', '2024-05-12'),
+('Martín', 'Pérez', '1139876543', 'martin.perez@mail.com', '2024-06-01'),
+('Sofía', 'Ramírez', '1144455566', 'sofia.ramirez@mail.com', '2024-06-15'),
+('Carlos', 'López', '1144455567', 'carlos.lopez@mail.com', '2024-06-20'),
+('Ana', 'Martínez', '1144455568', NULL, '2024-06-25'),
+('Mateo', 'Sánchez', '1155667788', 'mateo.sanchez@provider.com', '2024-07-01'),
+('Valentina', 'Rodríguez', '1122334455', 'valen.rod@mail.com', '2024-07-05'),
+('Sebastián', 'García', '1166778899', 'seba.garcia@webmail.com', '2024-07-10'),
+('Camila', 'Fernández', '1199887766', NULL, '2024-07-12'),
+('Nicolás', 'Torres', '1133445566', 'nico.torres@mail.com', '2024-07-15'),
+('Isabella', 'Ruiz', '1144556677', 'isabella.ruiz@service.com', '2024-07-20'),
+('Diego', 'Morales', '1188776655', 'd.morales@mail.com', '2024-07-22'),
+('Mariana', 'Castillo', '1177665544', 'marian.cast@mail.com', '2024-07-25'),
+('Joaquín', 'Castro', '1155443322', 'joaco.castro@web.com', '2024-07-28'),
+('Victoria', 'Ortiz', '1122112211', NULL, '2024-08-01'),
+('Samuel', 'Gutiérrez', '1199009900', 'samu.guti@mail.com', '2024-08-03'),
+('Elena', 'Blanco', '1188118811', 'elena.blanco@mail.com', '2024-08-05'),
+('Julián', 'Méndez', '1177227722', 'j.mendez@provider.net', '2024-08-07'),
+('Martina', 'Vargas', '1166336633', 'marti.vargas@mail.com', '2024-08-10'),
+('Lucas', 'Ríos', '1155445544', NULL, '2024-08-12'),
+('Daniela', 'Suárez', '1144554455', 'daniela.s@mail.com', '2024-08-15'),
+('Felipe', 'Heredia', '1133663366', 'felipe.h@service.com', '2024-08-18'),
+('Renata', 'Peralta', '1122772277', 'renata.p@mail.com', '2024-08-20'),
+('Adrián', 'Luna', '1111881188', 'adrian.luna@webmail.com', '2024-08-22'),
+('Paula', 'Acosta', '1100990099', 'paula.acosta@mail.com', '2024-08-25');
