@@ -1,3 +1,4 @@
+-- creación de tabla proveedores
 CREATE TABLE proveedores
 (
     idProveedor tinyint unsigned primary key auto_increment,
